@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Categories on functional kitchen</title>
+    <link>https://functionalkitchen.github.io/categories/</link>
+    <description>Recent content in Categories on functional kitchen</description>
+    <image>
+      <url>https://functionalkitchen.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://functionalkitchen.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 18 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://functionalkitchen.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bedroom Design</title>
+      <link>https://functionalkitchen.github.io/categories/bedroom-design/</link>
+      <pubDate>Mon, 18 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://functionalkitchen.github.io/categories/bedroom-design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kitchen Design</title>
+      <link>https://functionalkitchen.github.io/categories/kitchen-design/</link>
+      <pubDate>Mon, 18 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://functionalkitchen.github.io/categories/kitchen-design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bathroom Design</title>
+      <link>https://functionalkitchen.github.io/categories/bathroom-design/</link>
+      <pubDate>Sun, 17 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://functionalkitchen.github.io/categories/bathroom-design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Living Room Design</title>
+      <link>https://functionalkitchen.github.io/categories/living-room-design/</link>
+      <pubDate>Sun, 17 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://functionalkitchen.github.io/categories/living-room-design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Outdoor Space Design</title>
+      <link>https://functionalkitchen.github.io/categories/outdoor-space-design/</link>
+      <pubDate>Sat, 16 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://functionalkitchen.github.io/categories/outdoor-space-design/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
